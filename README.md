@@ -1,1 +1,1 @@
-# 3_Inventory_Control_System_GQT
+# 3_Inventory_Control_System_GQT_Corejava
